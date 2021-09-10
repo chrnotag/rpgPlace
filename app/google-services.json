@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940060860456",
+    "project_id": "rpg-place-f53c8",
+    "storage_bucket": "rpg-place-f53c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940060860456:android:d359dadad8a1a2c511951d",
+        "android_client_info": {
+          "package_name": "com.example.rpgplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940060860456-9frkjh7iqh96901hc605dm16cneiujbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rpgplace",
+            "certificate_hash": "24148b3ddb851ec85da0cb88dc6f82049025d80f"
+          }
+        },
+        {
+          "client_id": "940060860456-ur34s5amt19oif1d5j184dnfp4d6fe72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDiU-mE7wsMA0KhjjnBLvTA3KEffQ2u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940060860456-ur34s5amt19oif1d5j184dnfp4d6fe72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
